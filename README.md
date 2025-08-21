@@ -74,7 +74,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 
-## Programs for arithmetic  operations
+## Program for arithmetic  operations
 
 ```
 org 100h
@@ -106,7 +106,7 @@ ret
 
  <img width="1752" height="707" alt="image" src="https://github.com/user-attachments/assets/a72cd5be-0a95-4727-90fa-5290cf061bc2" />
 
-## Programs for logical Operations :
+## Program for logical Operations :
 
 ```
 org 100h
