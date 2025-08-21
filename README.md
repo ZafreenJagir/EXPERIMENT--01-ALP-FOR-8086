@@ -142,7 +142,7 @@ ret
 
 ## Result :
  
-The ALP on fundamental arithmetic and logical operations using 8086 is executed successfully.
+The ALP for fundamental arithmetic and logical operations using 8086 is executed successfully.
 
 
 
