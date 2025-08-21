@@ -1,7 +1,7 @@
-# EXPERIMENT--01-ALP for Fundamental arithmetic and logical operations using 8086 
+# EXPERIMENT-01 ALP for Fundamental arithmetic and logical operations using 8086 
 Name : Zafreen J
 Roll no : 212223040252
-
+Date : 21/08/25
 ## Aim:
 To Write and execute ALP for fundamental arithmetic and logical operations using 8086.
 ## Components required: 8086  emulator 
