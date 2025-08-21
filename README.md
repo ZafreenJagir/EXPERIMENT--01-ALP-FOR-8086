@@ -1,4 +1,4 @@
-# EXPERIMENT--01-ALP-FOR-Fundamental arithmetic and logical operations using 8086 
+# EXPERIMENT--01-ALP for Fundamental arithmetic and logical operations using 8086 
 Name : Zafreen J
 Roll no : 212223040252
 
